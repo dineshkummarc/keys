@@ -18,7 +18,7 @@ test:
 		--serial \
 		-I lib \
 		-I support/nstore/lib \
-		-I support/microdb/lib \
+		-I support/mongodb/lib \
 		-I support/redis/lib \
 		$(TESTS)
 
