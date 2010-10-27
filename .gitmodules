@@ -7,3 +7,9 @@
 [submodule "support/redis"]
 	path = support/redis
 	url = git://github.com/mranney/node_redis.git
+[submodule "support/step"]
+	path = support/step
+	url = git://github.com/creationix/step.git
+[submodule "support/pattern"]
+	path = support/pattern
+	url = git://github.com/creationix/pattern.git

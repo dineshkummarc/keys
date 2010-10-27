@@ -17,6 +17,8 @@ test:
 	@./support/expresso/bin/expresso $(TEST_FLAGS) \
 		--serial \
 		-I lib \
+		-I support/pattern/lib \
+		-I support/step/lib \
 		-I support/nstore/lib \
 		-I support/microdb/lib \
 		-I support/redis/lib \
