@@ -13,3 +13,6 @@
 [submodule "support/pattern"]
 	path = support/pattern
 	url = git://github.com/creationix/pattern.git
+[submodule "support/mongodb"]
+	path = support/mongodb
+	url = git://github.com/christkv/node-mongodb-native.git

@@ -20,7 +20,7 @@ test:
 		-I support/pattern/lib \
 		-I support/step/lib \
 		-I support/nstore/lib \
-		-I support/microdb/lib \
+		-I support/mongodb/lib \
 		-I support/redis/lib \
 		$(TESTS)
 
