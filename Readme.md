@@ -11,6 +11,7 @@ Currently the following stores are supported:
   * [nStore](http://github.com/creationix/nStore) -- requires _nstore_ (npm install nstore)
   * [Redis](http://github.com/mranney/node_redis) -- requires _node_redis_ (npm instasll redis)
   * [Riak](http://github.com/frank06/riak-js) -- requires *upcoming* version 0.3.0 of _riak-js_
+  * [Mongo](git://github.com/christkv/node-mongodb-native.git) -- requires _node-mongodb-native_
 
 Stores that specify "requires MODULE" must have the **MODULE** available to `require()`.
 
